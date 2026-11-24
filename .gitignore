@@ -1,0 +1,10 @@
+# The full clicks file is 433MB (GitHub limit: 100MB). Download it from UCI (see README).
+# A 1,000-row sample is in data/oulad/studentVle_sample.csv
+data/oulad/studentVle.csv
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# Local Claude Code settings
+.claude/settings.local.json
